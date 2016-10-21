@@ -1,0 +1,57 @@
+// Place all the styles related to the main controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+/*
+@media (min-width: 1200px){{
+   .container{
+        max-width: 970px; 
+   }
+}
+*/
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    padding-top: 100px;
+}
+
+section {
+    overflow: auto;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.center {
+    text-align: center;
+}
+
+.center h1 {
+    margin-bottom: 10px;
+}
+
+.navbar {
+    background: none;
+}
+
+#logo {
+    float: left;
+    margin-right: 10px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+#main_pic {
+    background_image: url("");
+}
+
+
