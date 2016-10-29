@@ -20,11 +20,20 @@
 }
 
 body {
-    padding-top: 100px;
+    padding-top: 105px;
 }
 
 section {
     overflow: auto;
+}
+
+footer {
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #999999; 
+    text-align: center;
 }
 
 textarea {
@@ -33,14 +42,11 @@ textarea {
 
 .center {
     text-align: center;
+    color: white;
 }
 
 .center h1 {
     margin-bottom: 10px;
-}
-
-.navbar {
-    background: none;
 }
 
 #logo {
@@ -51,7 +57,10 @@ textarea {
 }
 
 #main_pic {
-    background_image: url("");
+    background: url("GoogleEvent.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 20%;
 }
 
 
