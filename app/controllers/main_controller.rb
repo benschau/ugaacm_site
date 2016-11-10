@@ -5,4 +5,10 @@ class MainController < ApplicationController
     end
     def contact
     end
+    def upcomingevents
+    end
+    def gallery
+    end
+    def officers
+    end
 end
