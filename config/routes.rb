@@ -5,6 +5,10 @@ Rails.application.routes.draw do
   
   root 'main#home'
 
+  get '/contact',   to: 'main#contact'
+  get '/officers',  to: 'main#officers' 
+  get '/about',     to: 'main#about'
+
   # You can have the root of your site routed with "root"
   #root 'main#home'
 
