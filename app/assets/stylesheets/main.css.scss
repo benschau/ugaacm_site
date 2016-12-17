@@ -7,21 +7,46 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
-/*
-@media (min-width: 1200px){{
-   .container{
-        max-width: 970px; 
-   }
-}
-*/
-
 * {
     font-family: 'Open Sans', sans-serif;
 }
 
+#nav-title {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#officertable {
+    background-color: #728CA6;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+#officertable td {
+    background-color: #4A6B8A;
+    padding: 12px 12px 12px 12px;
+    margin: 12px 12px 12px 12px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none; 
+}
+
+.titleheader {
+    text-align: center;
+}
+
+.titleheader h1{
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.titleheader h2{
+    font-size: 110%;
+}
+
 body {
     background-color: #75999E;
-    padding-top: 20px;
+    //padding-top: 20px;
 }
 
 section {
@@ -65,10 +90,11 @@ textarea {
 }
 
 .toggle-button {
-    position: fixed;
+    position: absolute;
     width: 44px;
     height: 40px;
     padding: 4px;
+    margin: 9px 4px; 
     transition:.25s;
     z-index: 15;
 }
@@ -121,7 +147,7 @@ textarea {
 }
 
 .menu-wrap {
-    background-color: #75999E;
+    background-color: #012D33;
     position: fixed;
     top: 0;
     height: 100%;
@@ -132,6 +158,7 @@ textarea {
     overflow: auto;
     transition: .25s;
     z-index: 10;
+    padding-top: 60px;
 }
 
 .menu-show {
@@ -140,6 +167,19 @@ textarea {
 }
 
 .menu {
-    padding-top: 60px;
+    background-color: #0B454D;
+    //padding-top: 30px;
+    width: 100%;
+    text-align: center;
 }
+
+.menu > li{
+    margin: 0 auto 3px auto;
+}
+
+.nav-heading {
+    background-color: #75999E;
+    text-align: center; 
+}
+
 

@@ -13,8 +13,11 @@
         <header>
             <div class="menu-wrap">
                 <div class="menu-sidebar">
-                    <ul class="menu">
-                        <li><%= link_to image_tag("acm_logo.png"), "#", id: "logo" %></li>
+                    <div class="nav-heading">
+                        <h1 id="nav-title"> <i class="fa fa-chevron-left" aria-hidden="true"></i>UGA@ACM<i class="fa fa-chevron-right" aria-hidden="true"></i></h1> 
+                        <!-- <%= link_to image_tag("acm_logo.png"), "#", id: "logo" %> --> 
+                    </div>
+                    <ul class="menu list-unstyled">
                         <li><%= link_to "Home",     root_path %></li>
                         <li><%= link_to "About",    about_path %></li>
                         <li><%= link_to "Contact",  contact_path %></li>
@@ -22,18 +25,19 @@
                     </ul>
                 </div> 
             </div>
-
-            <span class="toggle-button">
-                <div class="menu-bar menu-bar-top"></div>
-                <div class="menu-bar menu-bar-middle"></div>
-                <div class="menu-bar menu-bar-bottom"></div> 
-            </span>
+            <nav class="navbar">
+                <span class="toggle-button">
+                    <div class="menu-bar menu-bar-top"></div>
+                    <div class="menu-bar menu-bar-middle"></div>
+                    <div class="menu-bar menu-bar-bottom"></div> 
+                </span>
+            </nav>
         </header>
-        
+    
         <%= yield %>
 
         <footer>
-            <div class="container">
+            <!-- <div class="container">
                 <div class="row">
                 <div class="col-sm-6">
                     <p> Link here! </p>
@@ -43,7 +47,7 @@
                     <p> Link here! </p>
                     <p> Link here! </p>
                 </div> 
-            </div> 
+            </div> --> 
         </footer>
     </body>
 </html>
