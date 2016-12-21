@@ -4,6 +4,7 @@ class MainController < ApplicationController
     def about 
     end
     def contact
+        @contact = Contact.new 
     end
     def upcomingevents
     end

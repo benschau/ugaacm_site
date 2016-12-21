@@ -28,8 +28,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use mail_form and simple_form for contact us.
-# gem 'mail_form'
-# gem 'simple_form'
+gem 'mail_form'
+gem 'simple_form'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

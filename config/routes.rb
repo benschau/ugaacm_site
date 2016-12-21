@@ -6,6 +6,9 @@ Rails.application.routes.draw do
   root 'main#home'
 
   get '/contact',   to: 'main#contact'
+  # match '/contact', to: 'contacts#new',     via: 'get'
+  resources "contacts", only: [:new, :create] 
+  
   get '/officers',  to: 'main#officers' 
   get '/about',     to: 'main#about'
 
