@@ -6,7 +6,7 @@ class MainController < ApplicationController
     def contact
         @contact = Contact.new 
     end
-    def upcomingevents
+    def events
     end
     def gallery
     end
