@@ -11,6 +11,7 @@ Rails.application.routes.draw do
   
   get '/officers',  to: 'main#officers' 
   get '/about',     to: 'main#about'
+  get '/events',    to: 'main#events'
 
   # You can have the root of your site routed with "root"
   #root 'main#home'

@@ -6,5 +6,6 @@ $(document).ready(function() {
         $(this).toggleClass('button-open'); 
         $menuWrap.toggleClass('menu-show');
     });
+    
 });
 
