@@ -1,5 +1,5 @@
-<div class="container-fluid">
-     <div class="titleheader"> 
+<div class="container">
+    <div class="titleheader"> 
         <h1> About </h1>
         <h2>The UGA chapter of ACM strives to be the epicenter of the CS and Engineering student bodies on campus.</h2>
     </div>
@@ -8,40 +8,47 @@
         <%= image_tag("GameDevWorkshop.jpg", :id => "about_pic") %>
     </div>
 
-    <div>
-        <p>
-            <h2> Join ACM Today! </h2>
+    <div class="row" style="padding: 10px 0px 10px 0px;">
+        <div class="descleft col-sm-8">
             <p>
-                We are the University of Georgia Chapter of the Assocation of Computing Machinery. We host a 
-                variety of meetings and sub-groups. Our general body meetings are at 6:30pm on Thursday in Boyd 
-                306. The general body meetings consist of presentations about technology, the computer science
-                community, and career advice.
+                <h2> Join ACM Today! </h2>
+                <p>
+                    We are the University of Georgia Chapter of the Assocation of Computing Machinery. We host a 
+                    variety of meetings and sub-groups. Our general body meetings are at 6:30pm on Thursday in Boyd 
+                    306. The general body meetings consist of presentations about technology, the computer science
+                    community, and career advice.
+                </p> 
             </p> 
-        </p> 
-        <p>
-            <h2> Benefits: </h2>
-            <ul>
-                <li> $10 dues per semester. </li>
-                <li> Your resume in our resume book, which will be shown to companies that are trying to recruit. </li>
-                <li> Name on the official membership list. </li>
-                <li> Can run for an officer position, or start your own committee! </li>
-                <li> Priority seating at large events </li>
-            </ul> 
-        </p>
-        <p>
-            <h2> Our Mission </h2>
             <p>
-                ACM is widely recognized as the premier membership organization for computing professionals, delivering resources
-                that advance computing as a science and a profession. The ultimate goal is to enable professional development, as well
-                as promote policies and research that will benefit society. Whether you are just starting your academic career or are
-                deep into graduate studies, the ACM is a place for everyone to learn, create, and share. We help our members get involved
-                with projects, expand their networks and link up with recruiters through recruiting events, seminars, and sub-groups.
+                <h2> Benefits: </h2>
+                <ul>
+                    <li> $10 dues per semester. </li>
+                    <li> Your resume in our resume book, which will be shown to companies that are trying to recruit. </li>
+                    <li> Name on the official membership list. </li>
+                    <li> Can run for an officer position, or start your own committee! </li>
+                    <li> Priority seating at large events </li>
+                </ul> 
             </p>
-        </p>
-    </div>
-    <div>
-        <h2> Who do I contact? </h2>
-        <i class="fa fa-map-marker" aria-hidden="true"></i> 205 Woodstone Dr, Athens GA 30605 <br />
-        <i class="fa fa-envelope" aria-hidden"true"></i> anuragbanerjee@uga.edu
+            <p>
+                <h2> Our Mission </h2>
+                <p>
+                    ACM is widely recognized as the premier membership organization for computing professionals, delivering resources
+                    that advance computing as a science and a profession. The ultimate goal is to enable professional development, as well
+                    as promote policies and research that will benefit society. Whether you are just starting your academic career or are
+                    deep into graduate studies, the ACM is a place for everyone to learn, create, and share. We help our members get involved
+                    with projects, expand their networks and link up with recruiters through recruiting events, seminars, and sub-groups.
+                </p>
+            </p>
+        </div>
+        <div class="descright col-sm-4">
+            <h2> Who do I contact? </h2>
+            <i class="fa fa-map-marker" aria-hidden="true"></i> 205 Woodstone Dr, Athens GA 30605 <br />
+            <i class="fa fa-envelope" aria-hidden"true"></i> anuragbanerjee@uga.edu
+        </div>
     </div>
 </div>
+
+<% content_for :header do %>
+    <%= javascript_include_tag 'about' %>
+<% end %>
+

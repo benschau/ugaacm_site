@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require_tree ./sitewide
 //= require turbolinks
 //= require bootstrap
-//= require_tree ./sitewide
+

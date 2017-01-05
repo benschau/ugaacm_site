@@ -12,8 +12,13 @@
     color: #ffffff;
 }
 
-.aboutdesc {
-    float: left;
+.descright {
+    opacity: 0%;
+    right: -500px;
+}
+
+.descleft {
+    left: -880px;
 }
 
 .clearfix {
@@ -37,20 +42,27 @@
     margin: 12px 12px 12px 12px;
 }
 
+.circle {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
 a:link, a:visited, a:hover, a:active {
     text-decoration: none; 
 }
 
-a {
+.menu-sidebar a {
     position: relative;
     color: #fff;
 }
 
-a:hover {
+.menu-sidebar a:hover {
     color: #fff;
 }
 
-a:before {
+.menu-sidebar a:before {
     content: "";
     position: absolute;
     width: 100%;
@@ -65,7 +77,7 @@ a:before {
     transition: all 0.3s ease-in-out 0s;
 }
 
-a:hover:before {
+.menu-sidebar a:hover:before {
     visibility: visible;
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
@@ -73,7 +85,6 @@ a:hover:before {
 
 .titleheader {
     text-align: center;
-    padding: 0px 0px 10px 0px;
 }
 
 .titleheader h1{
@@ -85,9 +96,20 @@ a:hover:before {
     font-size: 110%;
 }
 
+.sitewidebar {
+   background-color: #0B454D; 
+   height: 50px;
+}
+
+.siteheader {
+    text-align: center;
+    top: -100px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 body {
     background-color: #75999E;
-    //padding-top: 20px;
 }
 
 section {
@@ -138,12 +160,16 @@ textarea {
     height: auto;
 }
 
+.navtoggle {
+    padding-top: 10px;
+}
+
 .toggle-button {
     position: absolute;
     width: 44px;
     height: 40px;
-    padding: 4px;
-    margin: 9px 4px; 
+    padding: 5px 10px 10px 10px;
+    margin: 1px 2px; 
     transition:.25s;
     z-index: 15;
 }
