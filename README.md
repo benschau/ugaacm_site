@@ -22,7 +22,7 @@ _From small beginnings..._
 * Use a rails mailer instead of a google form- easier to customize that way.
 * Use a different calendar system than google calendar- or, use the google calendar API to make your own calendar.
 * In the case of the entire website just being total crap:
-    * Replace it with a template.
+    * Replace it with a [template](https://startbootstrap.com/).
 
 
 
