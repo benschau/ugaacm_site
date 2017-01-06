@@ -21,7 +21,8 @@ _From small beginnings..._
     * Replace the color scheme with something more appealing.
 * Use a rails mailer instead of a google form- easier to customize that way.
 * Use a different calendar system than google calendar- or, use the google calendar API to make your own calendar.
-
+* In the case of the entire website just being total crap:
+    * Replace it with a template.
 
 
 
