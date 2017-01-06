@@ -1,7 +1,7 @@
 # UGA ACM WEBSITE
 _From small beginnings..._
 
-## Dependencies
+## Dependencies:
 * Ruby On Rails 3.0
 
 ## How to use:
