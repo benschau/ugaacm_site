@@ -32,6 +32,10 @@ _From small beginnings..._
 Some tips just for you. I didn't have a predecessor to help me out, and I'd rather not leave you in this with nothing.
 * __Know basic web design if you're going to make the site from scratch__- or if you don't/won't, get some inspiration 
 from a site that looks good.
+* __For the love of all that is alive, do plan what the website should look like/how it should function before 
+you start coding__- get the exec board to tell you what they want. Ask yourself what you want. For those of us that aren't 
+art connoisseurs or just artists in general, plan the website out on paper and know how you want the page layout to look like. 
+UI is important. It looking good and functioning well is important. Trust me.
 * __Don't be held down by Ruby on Rails, if you don't want to use it__- the wordpress site (as of 2017-02-03) is still 
 up on the remote server, so don't feel too bad about using it instead of this code base. I lost a good amount of motivation 
 working on this, since I was never given either constructive criticism or encouragement working on this, not even a 'hey, how's 
