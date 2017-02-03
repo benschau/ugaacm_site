@@ -53,11 +53,11 @@ to, then you should either make your own agenda or force the exec board to give 
 have to make up what you want to do from scratch. If by the time you're confirmed as an officer, they haven't started making an 
 agenda for the board together, then you'll be on your own. Be consistent, commit yourself to this. If it looks like shit, 
 own it. If it functions like shit, own it. If it functions and looks amazing, own it.
-* Finally, __if the exec board won't help you or refuses to communicate with you explicitly asking for it, 
-just give up__. It's not worth working for a team that doesn't care. I would say team, but the truth is you are not much of a 
-team if no one knows what the other is doing- or even gives a damn. I have nothing personal against them, though it might seem 
-like it. I myself didn't explicitly ask for help, but I do believe I showed enough signs of struggling with web design, sent 
-out screenshots of the website, even sent personal texts to the senior execs and got nothing in return. 
+* Finally, __if the exec board won't help you or just flat out doesn't communicate whether you explicitly ask for 
+it or not, just give up__. It's not worth working for a team that doesn't care. I would say team, but the truth is you are 
+not much of a team if no one knows what the other is doing- or even gives a damn. I have nothing personal against them, though 
+it might seem like it. I myself didn't explicitly ask for help, but I do believe I showed enough signs of struggling with web 
+design, sent out screenshots of the website, even sent personal texts to the senior execs and got nothing in return. 
 
 If you have any questions, feel free to contact me. 
 
