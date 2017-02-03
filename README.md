@@ -57,5 +57,8 @@ out screenshots of the website, even sent personal texts to the senior execs and
 
 I wish you best of luck. 
 
-Benson Chau <bchau3440@gmail.com>
+Benson Chau 
 
+<bchau3440@gmail.com>
+
+2017-02-03
