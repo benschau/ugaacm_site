@@ -36,9 +36,9 @@ from a site that looks good.
 up on the remote server, so don't feel too bad about using it instead of this code base. I lost a good amount of motivation 
 working on this, since I was never given either constructive criticism or encouragement working on this, not even a 'hey, how's 
 the website coming?' (meaning I just ended up not seeing the point of making it because no one else really seemed to want it in 
-the first place). Yes, it's messy and non-organized. Before you decide to work on this, please recognize that you'll probably 
-have to do a lot of refactoring. Maybe you want to start from scratch, run with Django instead of Ruby (which, in hindsight, 
-would've been a much better idea had I not been asked to work with Ruby instead).
+the first place). Yes, it's messy, probably web-development crap- so before you decide to work on this, please recognize 
+that you'll probably have to do a lot of code refactoring. Maybe you want to start from scratch, run with Django instead of 
+Ruby (which, in hindsight, would've been a much better idea had I not been asked to work with Ruby instead).
 * __Let's be real- you're totally going to go full-stack.__
 * __Remember, criticism is both your worst friend and enemy; if you will, worst frienemy.__- Do whatever it takes 
 to get it. Communication is not a strong suit of the rest of the exec board (one hell of an understatement) and you should
