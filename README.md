@@ -23,13 +23,15 @@ _From small beginnings..._
 * Use a different calendar system than google calendar- or, use the google calendar API to make your own calendar.
 * In the case of just total crap:
     * Replace it with a [template](https://startbootstrap.com/).
+    * Throw all the text, images, files that you need onto it.
+    * Hack it enough so it has some flair to it.
 * Add route testing.
-* Create a mailer that functions, so you won't have to use an embedded google form.
 * Get assets for icons and other images.
 
 ## For my successor...
-Some tips just for you.
-* __Know basic web design if you're going to make the site from scratch__- or if you don't/won't, get some inspiration from a site that looks good.
+Some tips just for you. I didn't have a predecessor to help me out, and I'd rather not leave you in this with nothing.
+* __Know basic web design if you're going to make the site from scratch__- or if you don't/won't, get some inspiration 
+from a site that looks good.
 * __Don't be held down by Ruby on Rails, if you don't want to use it__- the wordpress site (as of 2017-02-03) is still 
 up on the remote server, so don't feel too bad about using it instead of this code base. I lost a good amount of motivation 
 working on this, since I was never given either constructive criticism or encouragement working on this, not even a 'hey, how's 
@@ -42,11 +44,17 @@ would've been a much better idea had I not been asked to work with Ruby instead)
 to get it. Communication is not a strong suit of the rest of the exec board (one hell of an understatement) and you should
 do your best to tell them what you're up to anyway at the very least. Make absolutely sure they know what the hell you're up to.
 * __You can get people to help you out. Make sure they really want to though__- helluva time commitment.
-* Finally, __if the exec board won't help you or refuses to communicate even with you explicitly asking for it, 
+* __Unless you're a super-committed individual, e.g the type that doesn't give something up until you're forced 
+to, then you should either make your own agenda or force the exec board to give you one__- If you're like me, you'll 
+have to make up what you want to do from scratch. If by the time you're confirmed as an officer, they haven't started making an 
+agenda for the board together, then you'll be on your own. Be consistent, commit yourself to this. __If it looks like shit, 
+own it. If it functions like shit, own it. If it functions and looks amazing, own it.__
+* Finally, __if the exec board won't help you or refuses to communicate with you explicitly asking for it, 
 just give up__. It's not worth working for a team that doesn't care. I would say team, but the truth is you are not much of a 
-team if no one knows what the other is doing. I have nothing personal against them, though it might seem like it. I myself 
-didn't explicitly ask for help, but I do believe I showed enough signs of struggling with web design, sent out screenshots of 
-the website, even sent personal texts to the senior execs and got nothing in return. 
+team if no one knows what the other is doing- or even gives a damn. I have nothing personal against them, though it might seem 
+like it. I myself didn't explicitly ask for help, but I do believe I showed enough signs of struggling with web design, sent 
+out screenshots of the website, even sent personal texts to the senior execs and got nothing in return. 
 
 I wish you best of luck. 
+Benson Chau
 
