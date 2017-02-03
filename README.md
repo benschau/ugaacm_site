@@ -55,6 +55,8 @@ team if no one knows what the other is doing- or even gives a damn. I have nothi
 like it. I myself didn't explicitly ask for help, but I do believe I showed enough signs of struggling with web design, sent 
 out screenshots of the website, even sent personal texts to the senior execs and got nothing in return. 
 
+If you have any questions, feel free to contact me. 
+
 I wish you best of luck. 
 
 ----------------------
