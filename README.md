@@ -72,3 +72,17 @@ Benson Chau
 2017-02-03
 
 ----------------------
+
+I'm going to start updating this README everyday until it gets picked up by [Emily Jackson](https://github.com/emilyjackson2018). 
+Let's see how long it takes for her to take that collaborator invite so I can hand her ownership. 
+She said she'd take over this repository on 2017-02-03.
+
+----------------------
+
+Benson Chau
+
+<bchau3440@gmail.com>
+
+2017-02-14
+
+----------------------
