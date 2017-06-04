@@ -86,3 +86,18 @@ Benson Chau
 2017-02-14
 
 ----------------------
+
+So it's been awhile since I updated it. I guess I was being sarcastic about actually updating this README everyday until it gets picked 
+up again. Anyway, still no sign of this ever getting picked back up. It's well past 2017-02-03; almost 4 months now. I think I'll make 
+this public, just to see if it'll be picked up quicker that way. Then again, this site is pretty embarrassing. But it would be a pretty 
+funny thing to let people read. 
+
+----------------------
+
+Benson Chau
+
+<bchau3440@gmail.com>
+
+2017-06-04
+
+----------------------
