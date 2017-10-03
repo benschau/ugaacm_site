@@ -2,7 +2,7 @@
 _From small beginnings..._
 
 ## A note for new people looking at this:
-Don't expect anything cool. I'm going to admit right here and now that this is simply a bad website. But for those of you newbies,
+Don't expect anything cool. I'm going to admit right here and now that this is simply a template website. But for those of you newbies,
 this is an example of a meh website. It at least has the right structures.
 
 ## Dependencies:
